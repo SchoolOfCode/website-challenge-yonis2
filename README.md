@@ -1,21 +1,5 @@
-# Website Challenge
-
-## Overview
-
-For your first project on the bootcamp, we want you to make a website all about your pair partner using HTML and CSS.
-
-The person you are making your website for is your partner, aka The Client. It is your job as a programmer to understand what the client wants from a profile site, assess what information is available and useful, design what serves the audience of users (aka the other bootcampers) best from the experience, and then create something which best solves those needs. You won't be given any guidance of what to build - you'll need to empathise with your users to see what they would find useful (or even survey and talk to them), and plan your site accordingly.
-
-## Outcome
-
-- a single web page created with HTML and CSS
-- a profile describing your client
-- a short 1-page README.md file alongside it which describes how you went about the project (your thoughts, research, plans, and justification for decisions)
-
-## Extra
-
-This is not only a chance for you to practice the core skills of HTML and CSS, but also a chance to invest time in thinking about how to build a website for a client, and have a user-centric approach - a key learning objective of the course. You will need to actively communicate with the client to find out everything you need in order to design and build a website which represents them to the rest of the cohort.
-
-Although you will each have an individual repository in which to make the website, there is nothing stopping you pair programming with your partner on the project. Organise your time so that you can spend an equal amount of time on each project. For example, if you spend three hours coding together on Sunday, you would spend 1.5 hours pair programming on one site, before moving over to the other site.
-
-This project will span the first two weeks of the bootcamp, and you will be given time in live evening sessions to work on it as well.
+Initially when i was tasked with creating a webpage, I had no idea where to even begin. So research came in the form of first understanding what html is  primarily using Marksheet.io which i found to be an abundant resource material. Soon after I was slowly building up confidence and just writing code and seeing how it would be presented on the webpage, something i found to be entertaining to say the least. 
+Then came the point of asking my partner (who onwards from here will be referred to as Client) what she would like to have written about her on the website. So we discussed things like ethnicities, place of birth, hobbies, work history, dream holiday destinations and so on. Now that i had a list of information to work with, on came the matter of structuring the information in a way that would look pleasing to my client and any other user who might come across this website.
+So again i went and did some research and came across examples of websites that had a profile-like structure which i used as a basis for my own website and took ideas from them, which was immensely helpful as my previously unorganised webpage was beginning to come together and resemble an actual webpage.
+I think this is a good time to mention the numerous errors that I encountered from not being able to source pictures saved on my local file to learning how to use the hover tag in CSS, but a willingness to complete a task showed me it can take you very far.
+All in all it was a fun journey that had its ups and downs but as they say you cant have a rainbow without a little rain.
